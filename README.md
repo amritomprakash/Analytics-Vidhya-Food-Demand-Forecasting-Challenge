@@ -1,0 +1,2 @@
+# Analytics-Vidhya-Food-Demand-Forecasting-Challenge
+This repository corresponds to a food demand forecasting challenge hosted at Analytics Vidhya. The challenge was to Help a food delivery business in forecasting the food demand for the upcoming weeks so that we can plan the stock of raw materials. I was placed 21st out of 1014 contestants in it. The materials corresponding to the challenge have been attached in this repository.
